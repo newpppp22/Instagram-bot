@@ -1,7 +1,7 @@
 from instagrapi import Client
 
 cl = Client()
-cl.login("first_experimant_", "fuck you")
+cl.login("first_experimant_", "gaja gaja")
 member_file = "members.txt"
 
 def get_members():
